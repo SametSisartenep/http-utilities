@@ -1,0 +1,24 @@
+{
+  "name": "http-utilities",
+  "version": "0.0.1",
+  "description": "Basic HTTP Utils for Node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test/test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/SametSisartenep/http-utilities.git"
+  },
+  "keywords": [
+    "http",
+    "mime",
+    "encoding"
+  ],
+  "author": "Rodrigo González López",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SametSisartenep/http-utilities/issues"
+  },
+  "homepage": "https://github.com/SametSisartenep/http-utilities"
+}
