@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/SametSisartenep/http-utilities/issues"
   },
-  "homepage": "https://github.com/SametSisartenep/http-utilities"
+  "homepage": "https://github.com/SametSisartenep/http-utilities",
+  "dependencies": {
+    "dr-mime": "^0.6.1"
+  }
 }
