@@ -19,7 +19,7 @@ module.exports = exports = function ( type ) {
     }
     else
     {
-      throw new Error('');
+      throw new Error('type [' + type + '] doesn\'t exist');
     }
   }
   else
