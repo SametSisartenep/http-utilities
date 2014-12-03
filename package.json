@@ -1,6 +1,6 @@
 {
   "name": "http-utilities",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "Basic HTTP Utils for Node.js",
   "main": "index.js",
   "scripts": {
@@ -22,6 +22,6 @@
   },
   "homepage": "https://github.com/SametSisartenep/http-utilities",
   "dependencies": {
-    "dr-mime": "^0.6.1"
+    "dr-mime": "^0.6.4"
   }
 }

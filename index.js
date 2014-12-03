@@ -2,10 +2,12 @@ var hardCodes = require('./stat-codes.json'),
   tinyCodes = require('./tiny-status-codes.json'),
   drMime = require('dr-mime');
 
-var httpUtils = function () {};
+function httpUtils () {}
+
+httpUtils.prototype = drMime;
 
 module.exports = exports = function ( type ) {
-  var codes = null;
+  var codes = {};
 
   if (type)
   {
