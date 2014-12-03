@@ -1,8 +1,6 @@
 var codes = require('./stat-codes.json'),
   drMime = require('dr-mime');
 
-var httpMethods = ['GET', 'POST', 'PUT', 'DELETE'];
-
 function statCode ( name ) {
   return codes[name];
 }
