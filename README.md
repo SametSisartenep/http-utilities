@@ -1,5 +1,4 @@
-http-utilities
-==============
+![http utilities logotype](logo.png)
 
 Basic HTTP Utils for Node.js
 
