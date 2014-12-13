@@ -7,18 +7,9 @@ Basic HTTP Utils for Node.js
 `npm install http-utilities`
 
 ### Initialization
-
-#### Tiny descriptors
 ``` js
-  var httpUtils = require('http-utilities')('tiny');
+  var httpUtils = require('http-utilities');
 ```
-
-#### Complete descriptors
-``` js
-  var httpUtils = require('http-utilities')('hard');
-```
-
-**Complete descriptors** are used by default if no type is selected.
 
 ### API
 
